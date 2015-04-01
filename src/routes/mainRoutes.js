@@ -1,13 +1,13 @@
 import React from 'react';
-import AppComponent from '../components/appComponent';
+import PlaceholderComponent from '../components/placeholderComponent';
 
-let appComponent = React.createFactory( AppComponent );
+let placeholderComponent = React.createFactory( PlaceholderComponent );
 
 function MainRoutes(app) {
 
     app.get('/', (req, res) => {
 
-        var html = React.renderToString( appComponent({}) );
+        var html = React.renderToString( placeholderComponent({}) );
 
         res.render('index.ejs', {reactOutput: html});
 

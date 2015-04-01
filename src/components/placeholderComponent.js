@@ -19,7 +19,7 @@ class PlaceholderComponent extends React.Component {
                 </ul>
 
                 <p>
-                    See the GitHub repository at: <a href="https://github.com/poshaughnessy/es6-isomorphic-react-starter-template">github.com/poshaughnessy/es6-isomorphic-react-starter-template</a>
+                    See the GitHub repository at: <a href="https://github.com/poshaughnessy/es6-react-isomorphic-starter-template">github.com/poshaughnessy/es6-react-isomorphic-starter-template</a>
                 </p>
 
                 <p>Feel free to fork, copy or use however you like.</p>

@@ -29,6 +29,13 @@ See: [es6-react-starter-template](https://github.com/poshaughnessy/es6-react-sta
 I don't really use Yeoman, but if it would be useful for anyone, I could try making a Generator for this.
 Just let me know. Or feel free to go for it yourself!
 
+
+## Thanks
+
+David Wells' [isomorphic-react-example](https://github.com/DavidWells/isomorphic-react-example) was a very useful
+starting point for me. Thanks David!
+
+
 ## Contact
 
 Please [email me](mailto:peter.oshaughnessy@gmail.com) or [tweet me](http://twitter.com/poshaughnessy)

@@ -1,7 +1,7 @@
 import React from 'react';
-import AppComponent from './components/appComponent';
+import PlaceholderComponent from './components/placeholderComponent';
 
 React.render(
-    React.createElement( AppComponent, {history: true} ),
+    React.createElement( PlaceholderComponent, {history: true} ),
     document.getElementById('app')
 );
