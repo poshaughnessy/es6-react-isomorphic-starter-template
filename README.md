@@ -19,7 +19,7 @@ Gulp will watch for JS and SCSS changes and recompile, but it won't live-reload 
 
 Feel free to fork, copy or use however you like.
 
-## After a non-isomorphic version?
+## Looking for a non-isomorphic version?
 
 See: [es6-react-starter-template](https://github.com/poshaughnessy/es6-react-starter-template).
 
