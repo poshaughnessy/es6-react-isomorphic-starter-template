@@ -19,22 +19,12 @@ Gulp will watch for JS and SCSS changes and recompile, but it won't live-reload 
 
 Feel free to fork, copy or use however you like.
 
-## Looking for a non-isomorphic version?
+## See also
 
-See: [es6-react-starter-template](https://github.com/poshaughnessy/es6-react-starter-template).
+This is one of a collection of three ES6 starter templates. The others are:
 
-
-## Why no Yeoman Generator?
-
-I don't really use Yeoman, but if it would be useful for anyone, I could try making a Generator for this.
-Just let me know. Or feel free to go for it yourself!
-
-
-## Thanks
-
-David Wells' [isomorphic-react-example](https://github.com/DavidWells/isomorphic-react-example) was a very useful
-starting point for me. Thanks David!
-
+* [Non-isomorphic version](https://github.com/poshaughnessy/es6-react-starter-template)
+* [SystemJS version](https://github.com/poshaughnessy/es6-react-jspm-starter-template)
 
 ## Contact
 
