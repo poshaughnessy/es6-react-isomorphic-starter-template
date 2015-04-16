@@ -7,7 +7,7 @@
     "url": "https://github.com/poshaughnessy/es6-react-isomorphic-starter-template.git"
   },
   "scripts": {
-    "start": "node runServer"
+    "start": "node --harmony runServer"
   },
   "devDependencies": {
     "babelify": "~5.0.4",
